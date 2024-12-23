@@ -1,2 +1,2 @@
-# Memory-game-Task
-A simple memory game card app with HTML, CSS and Javascript
+# zaroscript-memory-game
+ Simple memory cards game using vanilla javascript css 3D transform
